@@ -16,6 +16,3 @@
   ● Upgrade shields, guns, missiles and bombs on your jet fighter
   ● Buy power-ups to cause more damage to enemy warplanes in aircraft battle
   ● AdMob and Unity Ads integrated
-  
-  
-  

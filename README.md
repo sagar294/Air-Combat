@@ -10,9 +10,10 @@
 
 
 ## Game Features
-  ● Fast-paced gameplay with intense levels
-  ● Extreme endless boss battles
-  ● Beautiful level design and immersive environments
-  ● Upgrade shields, guns, missiles and bombs on your jet fighter
-  ● Buy power-ups to cause more damage to enemy warplanes in aircraft battle
-  ● AdMob and Unity Ads integrated
+
+  * Fast-paced gameplay with intense levels
+  * Extreme endless boss battles
+  * Beautiful level design and immersive environments
+  * Upgrade shields, guns, missiles and bombs on your jet fighter
+  * Buy power-ups to cause more damage to enemy warplanes in aircraft battle
+  * AdMob and Unity Ads integrated
